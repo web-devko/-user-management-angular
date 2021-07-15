@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "login": "wojciech",
+      "password": "123456Seven",
+      "role": "Moderator"
+    },
+    {
+      "id": 3,
+      "login": "iza559",
+      "password": "123456Seven",
+      "role": "User"
+    },
+    {
+      "id": 4,
+      "login": "wojciech",
+      "password": "123456Seven",
+      "role": "Moderator"
+    },
+    {
+      "id": 5,
+      "login": "wojciech",
+      "password": "123456Seven",
+      "role": "Moderator"
+    },
+    {
+      "id": 6,
+      "login": "wojciech",
+      "password": "123456Seven",
+      "role": "Moderator"
+    },
+    {
+      "id": 7,
+      "login": "wojciech",
+      "password": "123456Seven",
+      "role": "Moderator"
+    },
+    {
+      "id": 9,
+      "login": "wojciech",
+      "password": "123456Seven",
+      "role": "Moderator"
+    },
+    {
+      "id": 10,
+      "login": "wojciech",
+      "password": "123456Seven",
+      "role": "Moderator"
+    },
+    {
+      "id": 11,
+      "login": "wojciech",
+      "password": "123456Seven",
+      "role": "Moderator"
+    },
+    {
+      "id": 12,
+      "login": "wojciech",
+      "password": "123456Seven",
+      "role": "Moderator"
+    }
+  ]
+}
